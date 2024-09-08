@@ -1,0 +1,11 @@
+# PGM Outputs
+*.pgm
+
+# Objetcts
+*.o
+
+# Executables
+*.exe
+
+# VSCODE
+/.vscode
